@@ -1,4 +1,4 @@
-# app modernisation
+# Application modernisation
 
 Application modernization is becoming increasingly important for several reasons, affecting both the functionality and sustainability of your applications. Here are some key drivers:
 
